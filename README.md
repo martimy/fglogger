@@ -8,8 +8,8 @@ Download the fglogger.py file to your local machine then run the script from the
 Configure the Fortigate to send syslog messages to the IP address or your local machine.
 
 ## Dependencies
-SQlite3
-PyParsing
+* sqlite3
+* pyparsing
 
 # Documentation
 See the comments in the script.
