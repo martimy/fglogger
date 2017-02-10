@@ -7,6 +7,10 @@ This script receives syslog messages from a FortiGate device and send them to a 
 Download the fglogger.py file to your local machine then run the script from the command line.
 Configure the Fortigate to send syslog messages to the IP address or your local machine.
 
+## Dependencies
+SQlite3
+PyParsing
+
 # Documentation
 See the comments in the script.
 
